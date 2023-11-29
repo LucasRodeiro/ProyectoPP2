@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874852538526",
+    "project_id": "proyecto-pp2-51fd2",
+    "storage_bucket": "proyecto-pp2-51fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874852538526:android:735ac544af2a09a8a5c38f",
+        "android_client_info": {
+          "package_name": "com.lgrodeiro.proyectopp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OSGPen1UJ7UAM5qRuAand9gGqAQMszw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
